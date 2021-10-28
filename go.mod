@@ -3,7 +3,7 @@ module github.com/wkloucek/go-micro-test
 go 1.17
 
 require (
-	github.com/asim/go-micro/plugins/server/http/v3 v3.0.0-20211013085205-7136c61dbdde
+	github.com/asim/go-micro/plugins/server/http/v4 v4.0.0-20211028090348-ed690ed838cc
 	go-micro.dev/v4 v4.2.1
 )
 
@@ -11,7 +11,6 @@ require (
 	github.com/Microsoft/go-winio v0.5.1 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20210920160938-87db9fbc61c7 // indirect
 	github.com/acomagu/bufpipe v1.0.3 // indirect
-	github.com/asim/go-micro/v3 v3.7.0 // indirect
 	github.com/bitly/go-simplejson v0.5.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/emirpasic/gods v1.12.0 // indirect
@@ -37,7 +36,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
 	golang.org/x/net v0.0.0-20211020060615-d418f374d309 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20211020064051-0ec99a608a1b // indirect
+	golang.org/x/sys v0.0.0-20211025201205-69cdffdb9359 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
